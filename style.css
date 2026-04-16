@@ -1,0 +1,18 @@
+h1, h2, p { 
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+p {
+    color: blue;
+    font-size: 15px;
+}
+
+body {
+    background-color: rgb(13, 232, 64);
+}
+img {
+    border: 3px solid rgb(7, 186, 7);
+
+}
